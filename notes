@@ -1,0 +1,8 @@
+functions
+    __call__: Enables you to call a class like it is a function
+
+    read about lambdas
+
+    *arg, **kwargs
+
+    
